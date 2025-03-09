@@ -1,4 +1,5 @@
 # DBT Starter Project
+# https://medium.com/@pahlavan.maryam/streamlining-your-data-workflow-installing-dbt-postgres-with-docker-compose-and-makefile-bf60a2cc9390
 
 This repository serves as a starter project for your DBT (Data Build Tool) endeavors. It provides a foundation for organizing your data transformations and analytics workflow efficiently.
 
